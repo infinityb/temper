@@ -1,0 +1,8 @@
+[package]
+name = "temper"
+version = "0.1.0"
+authors = ["Stacey Ell <stacey.ell@gmail.com>"]
+
+[dependencies]
+usb = "0.2.1"
+byteorder = "0.3.9"
